@@ -1,14 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=200&section=header&text=L%C3%AA%20Tu%E1%BA%A5n%20C%E1%BA%A3nh&fontSize=40&fontAlignY=36&desc=AI%20Engineer&descAlignY=62&descSize=20&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=200&section=header&text=L%C3%AA%20Tu%E1%BA%A5n%20C%E1%BA%A3nh&fontSize=40&fontAlignY=36&desc=AI%20Engineer%20%7C%20Data%20%26%20Distributed%20Systems&descAlignY=62&descSize=19&animation=fadeIn" width="100%"/>
 </div>
 
 ### 1. Giới thiệu
--  **Định hướng:** AI Engineer tập trung nghiên cứu, phát triển các giải pháp Trí tuệ nhân tạo (LLM, Multimodal AI), hệ thống xử lý dữ liệu lớn (Big Data) và kiến trúc Backend phân tán hiệu năng cao.
--  **AI & Machine Learning:** Huấn luyện và triển khai mô hình với **PyTorch**, **Scikit-Learn**, **Hugging Face**, **LangChain**; ứng dụng Vector Database (**Qdrant**) và Graph Database (**Neo4j**) cho các kiến trúc RAG / GraphRAG, theo dõi luồng với **Langfuse** và trực quan hóa với **Streamlit**.
--  **Big Data & Data Engineering:** Thiết kế pipeline dữ liệu và xử lý phân tán với **Apache Spark**, **Apache Hadoop**, điều phối luồng công việc tự động với **Apache Airflow** và lưu trữ đối tượng qua **MinIO**.
--  **Backend & Distributed Systems:** Lập trình hệ thống hiệu năng cao bằng **Python (FastAPI)**, **C++**, **Java**, **Go**; quản lý luồng dữ liệu thời gian thực qua **Kafka**, **Redis** và **MQTT**.
--  **DevOps & Cloud:** Container hóa bằng **Docker**, tự động hóa CI/CD với **GitHub Actions** và triển khai hệ thống trên **Azure**.
--  **Sẵn sàng kết nối:** Trao đổi về AI Engineering, Graph Databases, Data Pipelines và kiến trúc microservices.
+-  **Định hướng:** AI Engineer tập trung nghiên cứu, phát triển các giải pháp Trí tuệ nhân tạo (LLM, Multimodal AI), phân tích dữ liệu lớn và kiến trúc Backend phân tán hiệu năng cao.
+-  **Khoa học Dữ liệu & Machine Learning:** Nắm vững xử lý ma trận và phân tích dữ liệu với **NumPy**, **Pandas**, **SciPy**, **Matplotlib**; huấn luyện mô hình học máy với **Scikit-Learn** và Deep Learning với **PyTorch**.
+-  **LLMs, RAG & MLOps:** Tích hợp mô hình ngôn ngữ lớn qua **LangChain**, **Hugging Face**; ứng dụng Vector Database (**Qdrant**) và Graph Database (**Neo4j**) cho kiến trúc RAG / GraphRAG; theo dõi luồng với **Langfuse** và làm giao diện thử nghiệm với **Streamlit**.
+-  **Big Data & Data Engineering:** Xây dựng pipeline dữ liệu phân tán với **Apache Spark**, **Apache Hadoop**, điều phối luồng tự động bằng **Apache Airflow** và lưu trữ đối tượng qua **MinIO**.
+-  **Backend & Distributed Systems:** Phát triển dịch vụ hiệu năng cao bằng **Python (FastAPI)**, **C++**, **Java**, **Go**; truyền nhận tin nhắn thời gian thực qua **Kafka** và **MQTT**.
+-  **DevOps & Cloud:** Container hóa bằng **Docker**, CI/CD qua **GitHub Actions** và triển khai hệ thống trên **Azure**.
+-  **Sẵn sàng kết nối:** Trao đổi về AI Engineering, Data Science, Graph Databases và các dự án mã nguồn mở.
 
 ---
 
@@ -16,16 +17,25 @@
 
 **Ngôn ngữ lập trình cốt lõi**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,cpp,java,go" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,java,go" alt="Languages" />
 </p>
 
-**AI, Machine Learning & MLOps**
+**Khoa học Dữ liệu & Tính toán số (Scientific & Data Stack)**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn" alt="ML Frameworks" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+</p>
+
+**AI, Deep Learning & LLM / MLOps**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" />
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/Langfuse-000000?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 </p>
 
 **Databases, Storage & Vector / Graph Search**
@@ -33,7 +43,6 @@
   <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
   <img src="https://img.shields.io/badge/Qdrant-DC2626?style=flat-square&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/MinIO-C72C48?style=flat-square&logo=minio&logoColor=white" />
-  <img src="https://skillicons.dev/icons?i=redis" alt="Redis" />
 </p>
 
 **Big Data & Data Engineering**
