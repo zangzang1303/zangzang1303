@@ -2,17 +2,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=200&section=header&text=L%C3%AA%20Tu%E1%BA%A5n%20C%E1%BA%A3nh&fontSize=40&fontAlignY=36&desc=AI%20Engineer&descAlignY=62&descSize=20&animation=fadeIn" width="100%"/>
 </div>
 
-### 👨‍💻 Giới thiệu
-- 🔭 **Định hướng:** AI Engineer tập trung nghiên cứu, phát triển các giải pháp Trí tuệ nhân tạo (LLM, Multimodal AI), hệ thống xử lý dữ liệu lớn (Big Data) và kiến trúc Backend phân tán hiệu năng cao.
-- 🧠 **AI & Machine Learning:** Huấn luyện và triển khai mô hình với **PyTorch**, **Scikit-Learn**, **Hugging Face**, **LangChain**; ứng dụng Vector Database (**Qdrant**) và Graph Database (**Neo4j**) cho các kiến trúc RAG / GraphRAG, theo dõi luồng với **Langfuse** và trực quan hóa với **Streamlit**.
-- 🌊 **Big Data & Data Engineering:** Thiết kế pipeline dữ liệu và xử lý phân tán với **Apache Spark**, **Apache Hadoop**, điều phối luồng công việc tự động với **Apache Airflow** và lưu trữ đối tượng qua **MinIO**.
-- ⚡ **Backend & Distributed Systems:** Lập trình hệ thống hiệu năng cao bằng **Python (FastAPI)**, **C++**, **Java**, **Go**; quản lý luồng dữ liệu thời gian thực qua **Kafka**, **Redis** và **MQTT**.
-- 🛠️ **DevOps & Cloud:** Container hóa bằng **Docker**, tự động hóa CI/CD với **GitHub Actions** và triển khai hệ thống trên **Azure**.
-- 💬 **Sẵn sàng kết nối:** Trao đổi về AI Engineering, Graph Databases, Data Pipelines và kiến trúc microservices.
+### 1. Giới thiệu
+-  **Định hướng:** AI Engineer tập trung nghiên cứu, phát triển các giải pháp Trí tuệ nhân tạo (LLM, Multimodal AI), hệ thống xử lý dữ liệu lớn (Big Data) và kiến trúc Backend phân tán hiệu năng cao.
+-  **AI & Machine Learning:** Huấn luyện và triển khai mô hình với **PyTorch**, **Scikit-Learn**, **Hugging Face**, **LangChain**; ứng dụng Vector Database (**Qdrant**) và Graph Database (**Neo4j**) cho các kiến trúc RAG / GraphRAG, theo dõi luồng với **Langfuse** và trực quan hóa với **Streamlit**.
+-  **Big Data & Data Engineering:** Thiết kế pipeline dữ liệu và xử lý phân tán với **Apache Spark**, **Apache Hadoop**, điều phối luồng công việc tự động với **Apache Airflow** và lưu trữ đối tượng qua **MinIO**.
+-  **Backend & Distributed Systems:** Lập trình hệ thống hiệu năng cao bằng **Python (FastAPI)**, **C++**, **Java**, **Go**; quản lý luồng dữ liệu thời gian thực qua **Kafka**, **Redis** và **MQTT**.
+-  **DevOps & Cloud:** Container hóa bằng **Docker**, tự động hóa CI/CD với **GitHub Actions** và triển khai hệ thống trên **Azure**.
+-  **Sẵn sàng kết nối:** Trao đổi về AI Engineering, Graph Databases, Data Pipelines và kiến trúc microservices.
 
 ---
 
-### 🛠️ Kỹ năng & Công nghệ
+### 2. Kỹ năng & Công nghệ
 
 **Ngôn ngữ lập trình cốt lõi**
 <p align="left">
@@ -56,7 +56,7 @@
 
 ---
 
-### 📊 Hoạt động GitHub
+### 3. Hoạt động GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zangzang1303&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=zangzang1303&theme=tokyonight&hide_border=true" height="150" alt="Streak Stats" />
@@ -68,7 +68,7 @@
 
 ---
 
-### 📬 Liên hệ
+### 4. Liên hệ
 <p align="center">
   <a href="mailto:letuancanh2211k5@gmail.com">
     <img src="https://img.shields.io/badge/letuancanh2211k5%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
