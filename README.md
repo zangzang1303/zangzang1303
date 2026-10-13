@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=200&section=header&text=L%C3%AA%20Tu%E1%BA%A5n%20C%E1%BA%A3nh&fontSize=40&fontAlignY=36&desc=AI%20Engineer%20%7C%20Data%20%26%20Distributed%20Systems&descAlignY=62&descSize=19&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=200&section=header&text=L%C3%AA%20Tu%E1%BA%A5n%20C%E1%BA%A3nh&fontSize=40&fontAlignY=36&desc=AI%20Engineer&descAlignY=62&descSize=20&animation=fadeIn" width="100%"/>
 </div>
 
 ### 1. Giới thiệu
